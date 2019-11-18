@@ -43,7 +43,7 @@ end
 
 ___________________________________
 
-Alternative Solution
+Another Optimal Implementation
 ___________________________________
 def merge_sort(array1,array2)
   sorted = []
