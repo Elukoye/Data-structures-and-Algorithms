@@ -9,6 +9,9 @@ Methods
 #peek(): Return the item at the top of the stack
 #isEmpty(): Returns true if the stack is empty
 
+Quick Reference
+#https://www.interviewcake.com/concept/ruby/stack?
+
 require 'pry'
 class Stack 
  #create empty array
