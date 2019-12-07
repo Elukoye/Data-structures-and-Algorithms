@@ -2,7 +2,7 @@ Overview
 #simmilar to stack but oposite of stack
 #implemented using dynamic arrays or linked lists
 #arrays aren't the best to implemment this data structure because one needs to shift the array
-elements everytime an insertion is done
+#elements everytime an insertion is done
 #It has FIFO order(first in first out)
 
 
@@ -24,6 +24,7 @@ USES
 
 REFERENCE
 https://www.interviewcake.com/concept/ruby/queue?
+https://www.youtube.com/watch?v=okr-XE8yTO8
 
 
 IMPLEMENTATION
