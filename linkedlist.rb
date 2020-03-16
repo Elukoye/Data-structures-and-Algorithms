@@ -21,8 +21,8 @@ end
 # implement a LinkedList class
 class LinkedList
   def initialize
-    @head = nil
-    @tail = nil
+    @head = nil 
+    @tail = nil @left = nil
   end
 
   def add(number)
