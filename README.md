@@ -1,10 +1,6 @@
 # Project: [Data Structures and Algorithms](https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project)
 
-## Live version of project :  [facebook-clone]("#")
-![screen]("#)
-
 ## Description
-
 A Data Structure and Algorithm list of questions form  Microverse's curated list of Replt.it challenges.The list also includes questions done as part of the book: A common guide to Data Structures and Algorithms. It is meant to be used as a reference material or a study guide.
 
 ## Recourses used
